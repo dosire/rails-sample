@@ -11,7 +11,9 @@ test:
   timeout: 5000
 
 production:
-  adapter: sqlite3
-  database: db/development.sqlite3
+  adapter: mysql
+  database: simple_production
+  user: mysql
+  password: replace_me!
   pool: 5
   timeout: 5000
