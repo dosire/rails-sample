@@ -12,8 +12,8 @@ test:
 
 production:
   adapter: mysql
-  database: simple_production
-  user: mysql
-  password: replace_me!
+  database: rails_test_production
+  user: root
+  password: jfgg89894dfjkhg
   pool: 5
   timeout: 5000
