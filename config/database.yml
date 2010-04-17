@@ -17,3 +17,4 @@ production:
   password: jfgg89894dfjkhg
   pool: 5
   timeout: 5000
+  host: comcoaster-alleuitjes.c0nwecu8diwg.eu-west-1.rds.amazonaws.com
